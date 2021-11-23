@@ -1,0 +1,40 @@
+diatas mal 6
+diatas mal 7
+diatas mal 8
+diatas mal 9
+diatas mal 10
+diatas mal 11
+diatas mal 24
+dibawah mal 2
+dibawah mal 3
+dibawah mal 4
+dibawah mal 25
+dibawah mal 28
+ditengah mal 9
+ditengah mal 14
+ditengah mal 17
+ditengah mal 21
+gambar_f_4
+gambar_f_8
+gambar_f_16
+gambar_f_18
+gambar_s_2
+gambar_s_3
+gambar_s_6
+gambar_s_7
+gambar_s_8
+gambar_s_10
+gambar_s_11
+gambar_s_14
+gambar_s_19
+gambar_s_24
+gambar_s_32
+gambar_s_40
+gambar_s_44
+gambar1
+gambar3
+gambar4
+gambar24
+gambar28
+gambar33
+gambar34
