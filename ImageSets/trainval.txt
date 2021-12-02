@@ -1,3 +1,26 @@
+angle_1
+angle_2
+angle_3
+angle_4
+angle_5
+angle_6
+angle_7
+angle_8
+angle_9
+angle_10
+angle_11
+angle_12
+angle_13
+angle_14
+angle_15
+angle_16
+angle_17
+angle_18
+angle_19
+angle_20
+angle_21
+angle_22
+angle_23
 diatas mal 1
 diatas mal 2
 diatas mal 3
